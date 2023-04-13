@@ -9,6 +9,8 @@ export const collections = {
   CallToAction,
   Content,
   Image,
+  Portfolio,
+  Posts,
 };
 
 export const components = {
