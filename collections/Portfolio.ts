@@ -1,15 +1,7 @@
 import { CollectionConfig } from 'payload/types';
 import { MediaType } from './Media';
 
-export type GolfCart = {
-  make: string;
-  model: string;
-  year: number;
-  description: string;
-  image: MediaType;
-};
-
-export type Bus = {
+export type PortfolioType = {
   make: string;
   model: string;
   year: number;
